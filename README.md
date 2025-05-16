@@ -18,7 +18,7 @@
 <p align="center">
   <img
     src="DevStart-Hub_Squared.png"
-    width="600"
+    width="400"
   />
 </p>
 
